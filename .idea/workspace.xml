@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2a8dabed-2e49-4e32-92c3-ef9a9a0ad381" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.10.2/fileHashes/resourceHashesCache.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HELP.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/apiPayload/ApiResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/umc/study/apiPayload/ApiResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/apiPayload/code/ErrorStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/apiPayload/code/SuccessStatus.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/config/QueryDSLConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/umc/study/config/QueryDSLConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/QRegion.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/QRegion.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/Region$RegionBuilder.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/Region$RegionBuilder.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/Region.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/umc/study/domain/Region.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/umc/study/web/controller/TempRestController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/umc/study/domain/QFoodCategory.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/umc/study/domain/QMember.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/umc/study/domain/QMission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/umc/study/domain/QRegion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/umc/study/domain/QReview.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/umc/study/domain/QStore.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/umc/study/domain/QTerms.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/umc/study/domain/common/QBaseEntity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/umc/study/domain/mapping/QMemberAgree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/umc/study/domain/mapping/QMemberMission.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/generated/querydsl/umc/study/domain/mapping/QMemberPrefer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/QRegion.class.uniqueId22" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/QRegion.class.uniqueId22" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/QRegion.java.uniqueId2" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/compileTransaction/stash-dir/QRegion.java.uniqueId2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/apiPayload/ApiResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/apiPayload/code/BaseCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/apiPayload/code/BaseErrorCode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/apiPayload/code/ErrorReasonDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/apiPayload/code/ErrorStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/apiPayload/code/ReasonDTO.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/apiPayload/code/SuccessStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/apiPayload/exception/ExceptionAdvice.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/apiPayload/exception/GeneralException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/apiPayload/exception/handler/TempHandler.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/converter/TempConverter.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/service/TempCommandService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/service/TempCommandServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/service/TempQueryService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/service/TempQueryServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/web/controller/TempRestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/web/dto/TempRequest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/umc/study/web/dto/TempResponse.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="study" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="study" type="f1a62948:ProjectNode" />
+                <item name="Run Configurations" type="7b0102dc:RunConfigurationsNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="mission07" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2omMeLOkdwWfCpsFiLvu8zCRh4i" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "mission07",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "reference.settingsdialog.project.gradle",
+    "spring.configuration.checksum": "f6a4f6d6ace0c759695a207dcee00187",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "mysql"
+    ]
+  }
+}]]></component>
+  <component name="RunManager" selected="Spring Boot.StudyApplication">
+    <configuration name="study [querydslClasses]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="querydslClasses" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <ForceTestExec>false</ForceTestExec>
+      <method v="2" />
+    </configuration>
+    <configuration name="StudyApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="study.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="umc.study.StudyApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.study [querydslClasses]" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2a8dabed-2e49-4e32-92c3-ef9a9a0ad381" name="Changes" comment="" />
+      <created>1731470391614</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731470391614</updated>
+      <workItem from="1731470392780" duration="23000" />
+      <workItem from="1731470421000" duration="20211000" />
+      <workItem from="1731541528464" duration="4042000" />
+      <workItem from="1731546007463" duration="1016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
